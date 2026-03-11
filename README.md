@@ -56,3 +56,14 @@ For most Discord music bots, managed Lavalink hosting is the most practical choi
 
 Discord: [discord.gg/getvps](https://discord.gg/getvps)  
 Website: [heavencloud.in](https://heavencloud.in)
+
+## 🚀 Powered by HeavenCloud
+
+Get free Lavalink hosting at [HeavenCloud](https://heavencloud.in/service/lavalink-hosting)
+
+- ✅ Free Lavalink Hosting
+- ✅ 99.9% Uptime  
+- ✅ Low Latency
+- ✅ Spotify & YouTube Support
+
+👉 [Get Started Free](https://heavencloud.in/service/lavalink-hosting)
